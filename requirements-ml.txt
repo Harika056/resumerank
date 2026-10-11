@@ -1,0 +1,2 @@
+# The real embedding model. Large download (PyTorch). Not needed for tests or EMBEDDER=hash.
+sentence-transformers>=2.7

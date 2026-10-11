@@ -1,0 +1,2 @@
+Priya Nair - Backend Engineer
+Built payment APIs with Java and Spring Boot backed by PostgreSQL. Used optimistic locking and idempotency keys so repeated transfer requests never move money twice. Cached account reads in Redis and wrote JUnit and Mockito tests for services. Ran load tests with JMeter and shipped through GitHub Actions CI/CD with Docker. Comfortable with data structures and algorithms.

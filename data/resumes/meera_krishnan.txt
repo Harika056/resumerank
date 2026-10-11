@@ -1,0 +1,2 @@
+Meera Krishnan - Data Scientist
+Built churn and demand forecasting models with scikit-learn, pandas, and numpy. Wrote SQL against PostgreSQL for feature extraction and scheduled pipelines with Airflow. Presented results to product teams. Some experience with deep learning in TensorFlow for image classification. Used Git and Docker for reproducible experiments.

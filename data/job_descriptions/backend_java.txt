@@ -1,0 +1,2 @@
+Backend Software Engineer (Java)
+Join our payments platform team. You will design REST APIs with Java and Spring Boot, model data in PostgreSQL, and cache hot reads in Redis. We value correct handling of concurrency, transactions, and idempotency. You will write unit and integration tests with JUnit, run services in Docker, and ship through CI/CD. Experience with Kafka, microservices, and load testing with JMeter is a plus. Strong data structures and algorithms fundamentals required.

@@ -1,0 +1,2 @@
+Sneha Patil - Software Engineer
+Wrote backend services in Python with Django and FastAPI. Designed REST APIs, optimised PostgreSQL queries, and used Redis for session caching. Added pytest suites and deployed with Docker and GitHub Actions. Some exposure to Java and Spring from university projects. Good grasp of data structures.

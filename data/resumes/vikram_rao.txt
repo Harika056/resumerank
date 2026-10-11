@@ -1,0 +1,2 @@
+Vikram Rao - ML Platform Engineer
+Deployed machine learning services with FastAPI and Docker on AWS, with CI/CD in Jenkins. Built batch inference jobs on Spark and orchestrated them in Airflow. Monitored model latency using Prometheus and Grafana. Wrote Python tests with pytest. Worked with transformers for text embeddings and optimised serving throughput.

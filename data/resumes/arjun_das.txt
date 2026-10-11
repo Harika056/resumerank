@@ -1,0 +1,2 @@
+Arjun Das - Java Developer
+Developed microservices in Java with Spring Boot and Kafka for order processing. Designed REST APIs, modelled MySQL schemas, and added Redis caching for product pages. Wrote JUnit tests and containerised services with Docker. Worked in an agile team with Jenkins pipelines. Solid knowledge of algorithms and object oriented design.

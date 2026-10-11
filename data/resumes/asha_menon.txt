@@ -1,0 +1,2 @@
+Asha Menon - Machine Learning Engineer
+Fine-tuned DistilBERT with PyTorch and Hugging Face transformers to classify support tickets, then served it through a FastAPI service in Docker. Built an embeddings pipeline with sentence transformers and measured latency before and after caching. Wrote pytest tests for the API and the preprocessing code. Built daily Airflow jobs that load SQL data into feature tables. Experimented with RAG using a small vector index.

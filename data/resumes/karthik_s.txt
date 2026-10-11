@@ -1,0 +1,2 @@
+Karthik S - Full Stack Developer
+Built single page applications with React and TypeScript and Node REST backends with MongoDB. Created responsive interfaces, wrote Jest tests, and deployed to AWS. Used Git daily and worked in Scrum teams. Limited backend experience beyond Node.

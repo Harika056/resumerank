@@ -1,0 +1,2 @@
+Imran Khan - Test Engineer
+Performed manual and exploratory testing, wrote detailed test cases, and logged defects. Started automating regression tests with Selenium and Java. Wrote SQL queries to verify data after releases. Familiar with agile ceremonies and Git. Learning Postman for API testing.

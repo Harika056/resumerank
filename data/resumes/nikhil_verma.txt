@@ -1,0 +1,2 @@
+Nikhil Verma - DevOps Engineer
+Managed Kubernetes clusters on AWS and wrote Terraform for infrastructure. Built CI/CD pipelines in Jenkins and monitored services with Prometheus and Grafana. Automated routine tasks with Linux shell and Python scripts. Containerised applications with Docker. Little application development beyond scripting.

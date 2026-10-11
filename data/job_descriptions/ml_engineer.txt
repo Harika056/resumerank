@@ -1,0 +1,2 @@
+Machine Learning Engineer
+We are looking for a machine learning engineer to build and ship NLP models. You will fine-tune transformers, build embeddings pipelines, and serve models behind REST APIs using Python and FastAPI. Experience with PyTorch, Hugging Face, Docker, and writing tests with pytest is expected. You will monitor latency and accuracy in production and work with data engineers using Airflow and SQL. Familiarity with RAG, vector search, and LLM evaluation is a plus.

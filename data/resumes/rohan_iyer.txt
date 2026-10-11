@@ -1,0 +1,2 @@
+Rohan Iyer - NLP Engineer
+Trained text classification and named entity models in Python with PyTorch and scikit-learn. Created an evaluation harness for LLM answers and tracked accuracy across prompt versions. Exposed models with Flask REST endpoints and containerised them with Docker. Used pandas and numpy for data cleaning and wrote pytest tests for the feature code. Familiar with embeddings and vector search.

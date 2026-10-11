@@ -1,0 +1,2 @@
+Lakshmi P - Data Analyst
+Built dashboards and weekly reports from SQL data in MySQL. Cleaned datasets with pandas and presented findings to stakeholders. Basic Python scripting and some exposure to scikit-learn for simple regressions. Used Git for versioning notebooks.

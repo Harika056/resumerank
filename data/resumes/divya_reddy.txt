@@ -1,0 +1,2 @@
+Divya Reddy - QA Automation Engineer
+Designed test cases and automated API checks with Postman and pytest, and UI flows with Selenium. Ran regression suites in Jenkins on every build and tracked defects through to verified fixes. Validated data with SQL queries and ran load tests with JMeter. Worked in agile teams using Git.

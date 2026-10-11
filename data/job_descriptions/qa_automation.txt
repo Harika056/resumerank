@@ -1,0 +1,2 @@
+QA Automation Engineer
+We need a QA engineer to own our test automation. You will design test cases, automate API tests with Postman and pytest, build UI tests with Selenium, and run regression suites in CI. You will log and track defects, work with developers in an agile team, and run basic load tests with JMeter. Knowledge of SQL for data validation and Git is required.
